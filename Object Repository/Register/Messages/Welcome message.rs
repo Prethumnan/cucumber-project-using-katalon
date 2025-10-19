@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Welcome message</name>
+   <tag></tag>
+   <elementGuidId>21575287-c644-42a5-98fe-0c6e3710bc25</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.info-account</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='center_column']/p[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Welcome to your account. Here you can manage all of your personal information an&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>8a24bd36-d616-4473-ab4a-1a3c4dc4076e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>info-account</value>
+      <webElementGuid>84e4c12a-7967-44e5-b0f3-3ae1f690d95e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Welcome to your account. Here you can manage all of your personal information and orders.</value>
+      <webElementGuid>3fbb4c9b-cf12-4b86-9c92-1a1663f51f62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;center_column&quot;)/p[@class=&quot;info-account&quot;]</value>
+      <webElementGuid>ad1f25f8-0386-4571-a16e-2651263ad964</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='center_column']/p[2]</value>
+      <webElementGuid>1099e1db-98b0-44f1-b818-91cddd222434</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My account'])[1]/following::p[2]</value>
+      <webElementGuid>b6347340-3f0b-4d92-b0b2-36792a9f29c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='>'])[1]/following::p[2]</value>
+      <webElementGuid>62ef7476-c9f8-42d0-aca7-c3ce29ff1c29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add my first address'])[1]/preceding::p[1]</value>
+      <webElementGuid>f04c5579-2c5b-4b70-87b4-49bb02be7b6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order history and details'])[1]/preceding::p[1]</value>
+      <webElementGuid>4348983a-5643-455b-8767-066df77ee2c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Welcome to your account. Here you can manage all of your personal information and orders.']/parent::*</value>
+      <webElementGuid>5cb55e7b-f389-44c8-b62d-bb86f3e5486c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/p[2]</value>
+      <webElementGuid>278d8348-8be5-4a3c-9c40-e6bc212a95ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Welcome to your account. Here you can manage all of your personal information and orders.' or . = 'Welcome to your account. Here you can manage all of your personal information and orders.')]</value>
+      <webElementGuid>17a2771a-1ad6-43a9-8aa2-fa156c37696d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

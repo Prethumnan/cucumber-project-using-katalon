@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>alreadyRegisteredMsg</name>
+   <tag></tag>
+   <elementGuidId>27fba718-ca62-4d66-81a3-3f7a33c373fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='create_account_error']/ol/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ol > li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;An account using this email address has already been registered. Please enter a &quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>d7989d2e-92c8-408f-8282-233520485f56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>An account using this email address has already been registered. Please enter a valid password or request a new one. </value>
+      <webElementGuid>fe3bf122-2dc8-493e-9526-0af7971e9e1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;create_account_error&quot;)/ol[1]/li[1]</value>
+      <webElementGuid>55dab2e3-2f69-4924-897f-0a1cddb92f01</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='create_account_error']/ol/li</value>
+      <webElementGuid>acd9945b-ab57-4ae8-9fb6-3616ec7cff64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create an account'])[1]/following::li[1]</value>
+      <webElementGuid>1d28714c-fecd-499d-b8fe-ab3ad9bc334a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Authentication'])[1]/following::li[1]</value>
+      <webElementGuid>a7a9014d-5029-4184-9f13-37d4bfa2f703</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email address'])[1]/preceding::li[1]</value>
+      <webElementGuid>f7f0c3bf-d01d-4ae4-a4cc-8b0867d08379</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='An account using this email address has already been registered. Please enter a valid password or request a new one.']/parent::*</value>
+      <webElementGuid>0bced6b3-480e-4e11-819d-dad8afb965e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ol/li</value>
+      <webElementGuid>f788edd8-261e-4a19-b18d-f0caf037c8ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'An account using this email address has already been registered. Please enter a valid password or request a new one. ' or . = 'An account using this email address has already been registered. Please enter a valid password or request a new one. ')]</value>
+      <webElementGuid>97701790-299e-40a3-a25d-e0e6fcbeca29</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
